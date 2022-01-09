@@ -2,8 +2,8 @@
 Monocular Visual Odometry pipeline for the mini project of the course Vision Algorithms for Mobile Robotics, Fall 21-22.
 
 ## Authors
-This project is done by:
-Cafer Mertcan Akcay, MSc Student in Robotics, Systems and Control
+This project is done by:<br/>
+Cafer Mertcan Akcay, MSc Student in Robotics, Systems and Control<br/>
 Irem Kaftan, MSc Student in Information Technology and Electrical Engineering
 
 ## Datasets
